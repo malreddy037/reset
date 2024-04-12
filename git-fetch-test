@@ -1,0 +1,8 @@
+Get clone
+Get fetch
+Git pull command will use to pull the  updated  changes which are available in the centralized repository
+Which we don’t have on our local use the git pull
+Git pull= git fetch + git merge
+
+==open github=open repository=open code copy clone===git clone https://github.com/malreddy037/reset.git====>ls====>cd reset===ls===click add file=click create new file==type name git pull test===click commit changes== click commit changes== git pull====ls=
+
